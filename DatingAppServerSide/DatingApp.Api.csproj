@@ -11,7 +11,5 @@
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.1.1"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.1"/>
-    <PackageReference Include="LessJie.System.Web.Http" Version="*"/>
-    <PackageReference Include="System.Web.Http.Common" Version="*"/>
   </ItemGroup>
 </Project>

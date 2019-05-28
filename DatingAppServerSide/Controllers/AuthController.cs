@@ -40,9 +40,7 @@ namespace DatingAppServerSide.Controllers
 
             var userToCreate = new User
             {
-
                 Username = userForRegisterDTo.Username
-
             };
 
 
