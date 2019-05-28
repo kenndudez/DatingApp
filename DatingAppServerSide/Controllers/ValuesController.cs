@@ -12,6 +12,7 @@ using static Microsoft.AspNetCore.Hosting.Internal.HostingApplication;
 
 namespace DatingApp.Api.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
